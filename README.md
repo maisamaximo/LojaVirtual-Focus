@@ -17,5 +17,5 @@
 
   - 4.2.2. Se boleto, imprimir um número randômico, para simular o código de barras
 
-  <li>4.2. Finalização da compra
+  4.2. Finalização da compra
   </ul>
